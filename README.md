@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suhail Ali</h1>
+<h1 align="center">Hi 👋, I'm Suhail ALi</h1>
 <h3 align="center">Competitive Programmer | Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
