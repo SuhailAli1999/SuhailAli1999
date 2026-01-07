@@ -22,6 +22,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="celery" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/celery.svg" alt="celery" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
 </p>
