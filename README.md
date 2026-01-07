@@ -10,7 +10,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/suhail_ali" height="30" width="40" />
   </a>
   <a href="mailto:SuhailAliDEV@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="SuhailAliDEV@gmail.com" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="SuhailAliDEV@gmail.com" height="30" width="40" />
   </a>
 </p>
 
